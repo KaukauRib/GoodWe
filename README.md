@@ -44,6 +44,7 @@ Desenvolver um aplicativo mobile multiplataforma (Android/iOS) que permita a con
 ## 5. GAMIFICAÇÃO - COMPETIÇÃO DE ECONOMIA DE ENERGIA 
 
 **Objetivo:** Engajar os usuários e incentivar a economia de energia.
+
 **Funcionamento:**
 - Pontuação baseada em economia mensal, uso eficiente e geração excedente;
 - Ranking em tempo real (local e global);
