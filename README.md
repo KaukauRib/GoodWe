@@ -1,5 +1,7 @@
 # Projeto Aplicativo GoodWe
 
+---
+
 ## 1. OBJETIVO GERAL
 
 Desenvolver um aplicativo mobile multiplataforma (Android/iOS) que permita a configuração, controle e monitoramento de dispositivos GoodWe, além da integração com assistentes virtuais como Amazon Alexa e Google Assistant.
@@ -31,11 +33,11 @@ Desenvolver um aplicativo mobile multiplataforma (Android/iOS) que permita a con
 
 ## 4. TECNOLOGIAS ENVOLVIDAS 
 
-**Frontend:** Flutter
-**Backend:** Node.js ou Firebase
-**Comunicação:** API REST, MQTT ou Modbus TCP
-**Banco de Dados:** Firestore, MongoDB ou PostgreSQL
-**Integração com Assistentes:** AWS Lambda, OAuth2, Actions on Google
+- **Frontend:** Flutter
+- **Backend:** Node.js ou Firebase
+- **Comunicação:** API REST, MQTT ou Modbus TCP
+- **Banco de Dados:** Firestore, MongoDB ou PostgreSQL
+- **Integração com Assistentes:** AWS Lambda, OAuth2, Actions on Google
 
 ---
 
