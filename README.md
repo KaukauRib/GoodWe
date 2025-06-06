@@ -14,7 +14,7 @@ Desenvolver um aplicativo mobile multiplataforma (Android/iOS) que permita a con
 - Pareamento de dispositivos;
 - Painel de controle com monitoramento de dados;
 - Controle remoto de dispositivos;
-- Integração com Alexa e Google Home;
+- Integração com assistentes virtuais;
 - Configurações e notificações.
 
 ---
@@ -57,8 +57,8 @@ Desenvolver um aplicativo mobile multiplataforma (Android/iOS) que permita a con
 ## 6. ETAPAS DO PROJETO 
 
 1. Levantamento técnico com a GoodWe;
-2. Desenvolvimento do App (Flutter);
+2. Desenvolvimento do App;
 3. Backend e autenticação;
 4. Integração com assistentes;
 5. Testes e refinamentos;
-6. Publicação nas lojas.
+6. Publicação nas lojas de aplicativos.
